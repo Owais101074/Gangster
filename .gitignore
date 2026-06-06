@@ -1,0 +1,16 @@
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+Frontend/.env
+
+# Common
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+npm-debug.log*
